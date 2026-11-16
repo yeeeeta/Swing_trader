@@ -1,0 +1,4 @@
+# trader-skill: your SEC name/email and broker log stay out of git
+trader/config.json
+trader/state/
+__pycache__/
